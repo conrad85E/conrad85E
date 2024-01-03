@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m currently learning:
+  1. Front-end development
+  2. Everything about Software engineering
 <!--
 **conrad85E/conrad85E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
