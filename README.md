@@ -1,8 +1,16 @@
-### Hi there 👋
-- 🌱 I’m currently learning:
+### Hi there👋
+🌱 Status: Master's student
+🔭 Major: Computer Science (Machine Learning)
+
+⚡Interests:
+- Data Structures & Algorithms
+- Graph Theory
+- Applied Math
+
+<!--
   * Front-end development
   * Everything about Software engineering
-<!--
+  
 **conrad85E/conrad85E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
