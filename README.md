@@ -1,5 +1,5 @@
 ### Hi there👋
-🌱 Status: Master's student
+🌱 Status: Master's student\
 🔭 Major: Computer Science (Machine Learning)
 
 ⚡Interests:
