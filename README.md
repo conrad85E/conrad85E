@@ -3,6 +3,7 @@
 🔭 Major: Computer Science (Machine Learning)
 
 ⚡Interests:
+- Machine Learning
 - Data Structures & Algorithms
 - Graph Theory
 - Applied Math
