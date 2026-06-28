@@ -1,4 +1,6 @@
 ### Hi there👋
+I'm Alisher
+
 🌱 Status: Master's student\
 🔭 Major: Computer Science (Machine Learning)
 
